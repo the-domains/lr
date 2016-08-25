@@ -1,0 +1,14 @@
+layout_spectrum: 0.39038521028123796
+typography_spectrum: 0.7690558775793761
+color:
+  brandStrength: 0.9521282594650984
+  lightness: 0.897661232156679
+  saturation: 0.059148458298295736
+  rhythmicContrast: 0.5964591901283711
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: LR
