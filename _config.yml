@@ -1,3 +1,4 @@
+layout_spectrum: 0.39038521028123796
 typography_spectrum: 0.7690558775793761
 color:
   brandStrength: 0.9521282594650984
@@ -5,12 +6,9 @@ color:
   saturation: 0.059148458298295736
   rhythmicContrast: 0.5964591901283711
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
-layout_spectrum: 0.39038521028123796
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: LR
-title: LR
-description: VIRTUAL SPACE
